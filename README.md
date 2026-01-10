@@ -1,11 +1,6 @@
 ```markdown
 # Vehicle Extra Menu
 
-A lightweight FiveM script for customizing vehicle liveries and extras. Features ox_lib and Lation Modern UI support, radial menu integration (ox_lib/qb-radialmenu), multi-framework compatibility (ESX/QBCore/QBox), custom livery naming, multi-language support (EN/DE), and automatic version checking.
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![FiveM](https://img.shields.io/badge/FiveM-ready-orange.svg)
 
 ## Features
 
