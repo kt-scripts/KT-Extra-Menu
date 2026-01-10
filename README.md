@@ -210,48 +210,15 @@ Config.LationUI = {
 ```
 
 
-## Screenshots
-
-*Coming soon*
-
-## Changelog
-
-### v1.0.0
-- Initial release
-- Livery customization
-- Extras toggle
-- Multi-framework support
-- ox_lib and Lation UI support
-- Radial menu integration
-- Custom livery naming
-- Multi-language support
-- Version checking
-
 ## Support
 
-If you encounter any issues or have suggestions:
+[JOIN DISCORD](https://discord.gg/A6UgrEhc8G)
 
-1. Check the [Issues](https://github.com/USERNAME/vehicle_extra_menu/issues) page
-2. Create a new issue with detailed information
-3. Include your server configuration and error logs
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
 - [ox_lib](https://github.com/overextended/ox_lib) - Menu and notification system
-- [Lation Scripts](https://github.com/lationscripts) - Modern UI support
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+- [Lation Scripts](https://lationscripts.com/product/modern-ui) - Modern UI support
 
 
 Made with ❤️ by Fabian
