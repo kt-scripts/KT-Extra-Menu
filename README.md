@@ -120,42 +120,6 @@ Config.LationUI = {
     header = 'Vehicle Customization',
     subheader = 'Customize your vehicle',
 }
-```
-
-## Version Check
-
-The version check is configured in `version.lua`:
-
-```lua
-local Version = {
-    current = '1.0.0',
-    check = true,
-    url = 'https://raw.githubusercontent.com/USERNAME/REPO/main/version.json',
-    interval = 60
-}
-```
-
-| Option | Description |
-|--------|-------------|
-| `current` | Current script version |
-| `check` | Enable/disable version check |
-| `url` | URL to version.json file |
-| `interval` | Check interval in minutes (0 = only on start) |
-
-### Disable Version Check
-
-```lua
-local Version = {
-    current = '1.0.0',
-    check = false,
-    url = '',
-    interval = 0
-}
-```
-
-## Exports
-
-```lua
 
 ## Commands
 
