@@ -15,8 +15,8 @@
 
 ## Dependencies
 
-- [ox_lib](https://github.com/overextended/ox_lib) (required)
-- [modernui](https://github.com/lationscripts/modernui) (optional - for Lation UI)
+- [ox_lib](https://github.com/overextended/ox_lib) - Menu and notification system
+- [Lation Scripts](https://lationscripts.com/product/modern-ui) - Modern UI support
 
 ## Installation
 
