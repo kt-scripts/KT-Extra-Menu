@@ -22,14 +22,13 @@
 
 1. Download the latest release
 2. Extract to your `resources` folder
-3. Rename folder to `vehicle_extra_menu`
-4. Add `ensure vehicle_extra_menu` to your `server.cfg`
-5. Configure `config.lua` to your needs
-6. Restart your server
+3. Add `ensure kt_extra_menu` to your `server.cfg`
+4. Configure `config.lua` to your needs
+5. Restart your server
 
 ```cfg
 ensure ox_lib
-ensure vehicle_extra_menu
+ensure kt_extra_menu
 ```
 
 ## Configuration
