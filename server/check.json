@@ -1,5 +1,10 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.1",
     "download": "https://github.com/kt-scripts/KT-Extra-Menu/releases",
-    "changelog": ["Fixed Repair Abuse"]
+    "changelog": [
+        "Anti-Repair Abuse System",
+        "Vehicle Damage Check Added",
+        "Improved Version Checker",
+        "Bug Fixes & Optimizations"
+    ]
 }
