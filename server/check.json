@@ -1,8 +1,5 @@
 {
-    "version": "1.0.3",
-    "download": "https://github.com/kt-scripts/KT-Extra-Menu/releases/latest",
-    "changelog": [
-        "Bugfixes",
-        "Test"
-    ]
+    "version": "1.0.2",
+    "download": "...",
+    "changelog": ["Bug Fixes"]
 }
